@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Автозапись звонков</string>
+    <string name="accessibility_service_label">Автозапись звонков (MagicOS)</string>
+    <string name="accessibility_service_description">Необходимо для фонового запуска записи аудио во время телефонного разговора на Android 10–16 без root.</string>
+</resources>
